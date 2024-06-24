@@ -1,4 +1,4 @@
-public class Sqaure {
+public class Square {
 	Point A;
 	Point B;
 	Point C;
