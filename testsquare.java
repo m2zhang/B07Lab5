@@ -23,4 +23,4 @@ class testsquare{
         assertEquals(s2.isValidSqaure(),false);
     }
 
-}
+} test
